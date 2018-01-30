@@ -1,5 +1,5 @@
 # Site Settings
-title: Alex Fu - Resume
+title: Alex Fu - Google Resume
 url: 'http://fuxiaoalex.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -12,9 +12,11 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Alex Fu
-tagline: Solution Consultant, gPS
+tagline: Solution Consultant, gPS Ads
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: ''
+summary: "Seasoned tech professional with work exprience in Software Engineering, Product/Program management & Tech
+Service. Multi-national study & work experience across Unitied States, Italy & China. Experience in both enterprise
+& consumer tech giants. Know 'everything' and nothing. Just joined Google in January 2017."
 
 #sidebar links
 email: xiaofu@google.com
@@ -25,7 +27,7 @@ github: fuxiaoalex
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
-analytics: 
+analytics:
 
 # Build settings
 encoding: "utf-8"
